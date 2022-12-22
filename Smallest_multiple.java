@@ -9,7 +9,7 @@ public class Smallest_multiple {
             finalAnswer = lcm (finalAnswer, i+1);
         }
 
-        System.out.println(finalAnswer);
+        System.out.println("Final answer is: "+finalAnswer);
     }
 
     public static int lcm(int number1, int number2) {

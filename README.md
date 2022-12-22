@@ -8,3 +8,7 @@ solution for project Euler questions
 3-Largest prime factor && Largest prime factor by AI
 
 4-Largest planlindrome product
+
+5-Smallest multiple
+
+6-Sum square difference
