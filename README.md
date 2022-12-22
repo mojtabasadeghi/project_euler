@@ -5,4 +5,6 @@ solution for project Euler questions
 
 2-Even Fibonacci numbers
 
-3-Largest prime factor
+3-Largest prime factor && Largest prime factor by AI
+
+4-Largest planlindrome product
