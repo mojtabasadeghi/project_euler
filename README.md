@@ -12,3 +12,7 @@ solution for project Euler questions
 5-Smallest multiple
 
 6-Sum square difference
+
+7-The_10001st_prime
+
+8-Largest product in a series
